@@ -34,3 +34,5 @@ public void moveZeroes(int[] nums) {
         right++;
     }
 }
+
+Time Complexity = O(n)
